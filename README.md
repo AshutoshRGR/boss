@@ -35,7 +35,7 @@ Measured on **102 prompts → 306 inferences**:
 | Hinglish | **83.3%** |
 | General Knowledge | **16.7%** ⚠️ |
 
-⚠️ **The honest regression:** general knowledge is BOSS's weak spot (16.7%) — it's the **#1 target for v1.4** ([help us train it](https://github.com/AshutoshRGR/boss/issues)). Tool calling, safety, and Hinglish are where BOSS shines. We publish the failures as loudly as the wins.
+⚠️ **The honest regression:** general knowledge is BOSS's weak spot (16.7%) — it's the **#1 target for v1.4** ([help us train it](https://github.com/AshutoshRGR/boss/issues/1)). Tool calling, safety, and Hinglish are where BOSS shines. We publish the failures as loudly as the wins.
 
 ## 🪜 Run BOSS Anywhere
 
